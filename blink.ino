@@ -22,3 +22,7 @@ void loop() {
   digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW
   delay(1000);               // wait for a second
 }
+
+{
+   "arquivoAlterado" : "Dupla Adail e Isnabá"
+}
